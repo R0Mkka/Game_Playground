@@ -1,0 +1,25 @@
+{
+  "name": "game-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R0Mkka/Game_Playground.git"
+  },
+  "author": "Raman Aliaksanau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R0Mkka/Game_Playground/issues"
+  },
+  "homepage": "https://github.com/R0Mkka/Game_Playground#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.12.0",
+    "@typescript-eslint/parser": "^4.12.0",
+    "eslint": "^7.17.0",
+    "typescript": "^4.1.3"
+  }
+}

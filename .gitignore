@@ -30,6 +30,7 @@ Temporary Items
 
 ### web ###
 /node_modules
+/dist
 
 ### env ###
 .env
